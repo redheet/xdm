@@ -47,6 +47,12 @@ If you want to translate XDM to your language, feel free to submit a translation
 Steps are mentioned in: https://github.com/subhra74/xdm/wiki/Submitting-translations-for-XDM
 
 
+## Installation For Arch
+- git clone https://aur.archlinux.org/xdman.git
+- cd xdman
+- makepkg -s
+- sudo pacman -U xdman-2020.7.2.11-2-x86_64.pkg.tar.zst 
+
 [//]: #ImageLinks
 [01]: https://i.stack.imgur.com/s7ViA.jpg
 [02]: https://i.stack.imgur.com/90TQO.jpg
